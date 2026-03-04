@@ -189,4 +189,4 @@ with st.sidebar:
     st.markdown("This is a sidebar")
     if st.button("Log out", type="primary",use_container_width=True):
         time.sleep(5)
-        st.success("you are being logged out")
+        st.success("you are being logged out!")
